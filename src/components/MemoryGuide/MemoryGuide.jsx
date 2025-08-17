@@ -41,4 +41,4 @@ const MemoryGuide = () => {
   );
 };
 
-export { default } from './MemoryGuide';
+export default MemoryGuide;
